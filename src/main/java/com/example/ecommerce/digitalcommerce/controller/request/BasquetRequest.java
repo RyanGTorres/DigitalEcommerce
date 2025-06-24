@@ -4,5 +4,5 @@ import lombok.Builder;
 
 import java.util.List;
 @Builder
-public record BasquetRequest(Long clientID, List<ProductRequest> products) {
+public record BasquetRequest(Long clientId, List<ProductRequest> products) {
 }

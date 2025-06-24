@@ -12,6 +12,8 @@ import java.math.BigDecimal;
 @Setter
 public class Product {
 
+    //puxa da API externa
+
     private Long id;
 
     private String title;

@@ -1,6 +1,5 @@
 package com.example.ecommerce.digitalcommerce.repository;
 
-import com.example.ecommerce.digitalcommerce.controller.request.BasquetRequest;
 import com.example.ecommerce.digitalcommerce.entity.Basquet;
 import com.example.ecommerce.digitalcommerce.entity.enums.Status;
 import org.springframework.data.mongodb.repository.MongoRepository;
